@@ -5,6 +5,7 @@ const CityForecast = ({ city }) => {
 
     // const [isClicked, setIsClicked] = useEffect(false);
 
+    // TODO: city.summary and city.details return undefined
     function forecastData (city) {
         return (city.summary + "\n" + city.details);
     };
