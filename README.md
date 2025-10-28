@@ -1,1 +1,1 @@
-# -practice-reactWeatherApp-noah-b
+See "@" folder for src and components.
